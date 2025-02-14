@@ -1,0 +1,12 @@
+
+  replicaCount: 2
+  image:
+    repository: vik2000/k8sphp
+    tag: latest
+  nodePort: 30300  # Пример свободного порта
+
+
+
+
+
+
